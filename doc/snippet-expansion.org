@@ -278,4 +278,4 @@ shortcut to select the 6th candidate.
 
 *** Roll your own
 
-See the documentation on variable [[sym:yas-prompt-functions][=yas-prompt-functions=]]
+See the documentation on variable [[sym:yas-prompt-functions][=yas-prompt-functions=]].
