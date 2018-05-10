@@ -8,7 +8,7 @@
 
 There are some ways you can quickly find a snippet file or create a new one:
 
--  =M-x yas-new-snippet=, key bindind: =C-c & C-n=
+-  =M-x yas-new-snippet=, key binding: =C-c & C-n=
 
    Creates a new buffer with a template for making a new snippet.  The
    buffer is in =snippet-mode= (see [[snippet-mode][below]]).  When you are done editing
